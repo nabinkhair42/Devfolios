@@ -1,14 +1,5 @@
 [
   {
-    "name": "Lean Rada",
-    "username": "Kalabasa",
-    "portfolioLink": "https://leanrada.com",
-    "followers": 266,
-    "stars": 2242,
-    "popularity": 2508,
-    "lastFetched": 1761394792988
-  },
-  {
     "username": "mahdipakravan-dev",
     "name": "Mahdi Pakravan | MPakravan",
     "portfolioLink": "https://mpakravan.com/en",
@@ -169,5 +160,14 @@
     "stars": 532,
     "popularity": 703,
     "lastFetched": 1761740656156
+  },
+  {
+    "name": "Lean Rada",
+    "username": "Kalabasa",
+    "portfolioLink": "https://leanrada.com",
+    "followers": 267,
+    "stars": 2249,
+    "popularity": 2516,
+    "lastFetched": 1761826972317
   }
 ]
